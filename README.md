@@ -44,5 +44,9 @@
 - Technology Journalism (CMS, LMS, Copy Editing)
 
 ## Education
-- North Park University - MBA, Management (2016-2019)
-- Hampton University - BA, Psychology
+- North Park University - _MBA, Management_ (2019)
+- Hampton University - _BA, Psychology_
+
+## Press
+- Decoded Magazine - _[Book of the Month](https://www.decodedmagazine.com/book-of-the-month-organ-c1ty)_
+- Electronic Groove - _[ØRGΛN C1TY](https://electronicgroove.com/org%CE%BBn-c1ty-explores-urban-futurism-and-artistic-expression)_
