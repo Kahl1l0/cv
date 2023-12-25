@@ -5,7 +5,7 @@
 
 ## Experience
 
-**Microsoft** (Fōcus) - _Senior Technical Writer/Editor_ (2023)
+**Microsoft** (Contract) - _Senior Technical Writer/Editor_ (2023)
 - Perpetually develops educational content for the Microsoft Learn platform.
 - Continuously develops product information for the Microsoft Partner Center.
 - Collaboratively writes, edits and publishes technical documentation in GitHub.
@@ -18,7 +18,7 @@
 - Collaborated with marketing department to create templates according to brand guidelines.
 - Strategically mentored junior technical writers and technical writing interns.
 
-**IBM** - _Senior Technical Writer_ (2021)
+**IBM** (Contract)- _Senior Technical Writer_ (2021)
 - Served as Subject Matter Expert (SME) for artificial intelligence & machine learning (AI/ML).
 - Actively drove technical content development for IBM Cloud Education and IBM Cloud Blog.
 - Thoroughly researched and drafted articles and blog posts for cloud computing initiatives.
